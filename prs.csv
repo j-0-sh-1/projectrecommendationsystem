@@ -1,0 +1,11 @@
+Project ID,Project Name,Technology,Complexity Level,Domain,Duration,Description
+1,Personal Blog Website,HTML/CSS;JavaScript,1,Web Development,1,A beginner project to design a personal blog using HTML, CSS, and basic JavaScript.
+2,Data Visualization Tool,Python;D3.js,2,Data Science,2,An intermediate project focusing on data processing and visualization using Python and D3.js.
+3,AI Chatbot,Python;TensorFlow,3,Artificial Intelligence,3,An advanced project to build an AI chatbot using Python and TensorFlow for natural language processing.
+4,Mobile App Development,Flutter;Dart,2,Mobile Development,2,A project to create a cross-platform mobile application using Flutter and Dart.
+5,Internet of Things (IoT) System,Python;IoT Devices,3,Internet of Things,3,An advanced project to create a smart IoT system for home automation using various IoT devices and Python.
+6,E-commerce Website,JavaScript;React,2,Web Development,2,Intermediate project to build an e-commerce website using JavaScript and React framework.
+7,Cryptocurrency Analysis Tool,Python;APIs,2,Data Science,2,Intermediate project focused on cryptocurrency data analysis using Python and external APIs.
+8,Game Development,Unity;C#,3,Game Development,3,Advanced project in game development using Unity and C# to create an engaging game.
+9,Social Network Analysis,Python;Machine Learning,3,Data Science,3,Advanced project to analyze social networks using machine learning techniques in Python.
+10,Basic Android App,Java;Android Studio,1,Mobile Development,1,Beginner project to create a simple Android app using Java and Android Studio.
