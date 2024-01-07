@@ -89,7 +89,7 @@ def main():
 
 # Load your preprocessed project dataset
 # Ensure you have the path to your dataset correctly specified
-final_projects_df = pd.read_csv("C:/Users/Joshua Ilangovan/OneDrive/Documents/Project Recommendation System/2nd-preprocessed_dataset.csv")
+final_projects_df = pd.read_csv("2nd-preprocessed_dataset.csv")
 project_features = final_projects_df.columns.drop(['Project ID', 'Project Name'], errors='ignore')
 
 if __name__ == "__main__":
